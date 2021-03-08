@@ -1,2 +1,2 @@
-# boxer-project.github.io
+# Boxer
 Boxer Project Website
